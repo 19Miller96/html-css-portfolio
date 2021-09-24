@@ -20,3 +20,12 @@
     display: inline-block;
     margin-left: 25px;
   }
+
+  .about-me {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../css/images/Horiseon-Placeholder.PNG");
+    background-size: cover;
+    background-position: center;
+  }
